@@ -49,13 +49,13 @@
   <!-- tags -->
   <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.1">
     <rect x="80" y="292" width="112" height="34" rx="17" fill="#e06c75" fill-opacity="0.10" stroke="#e06c75" stroke-opacity="0.45"/>
-    <text x="101" y="314" fill="#f0a4aa">AUTOMATION</text>
+    <text x="136" y="314" text-anchor="middle" fill="#f0a4aa">AUTOMATION</text>
     <rect x="204" y="292" width="108" height="34" rx="17" fill="#61afef" fill-opacity="0.10" stroke="#61afef" stroke-opacity="0.42"/>
-    <text x="229" y="314" fill="#9bc9ee">EMBEDDED</text>
+    <text x="258" y="314" text-anchor="middle" fill="#9bc9ee">EMBEDDED</text>
     <rect x="324" y="292" width="108" height="34" rx="17" fill="#c678dd" fill-opacity="0.10" stroke="#c678dd" stroke-opacity="0.42"/>
-    <text x="348" y="314" fill="#dda3e9">SOFTWARE</text>
+    <text x="378" y="314" text-anchor="middle" fill="#dda3e9">SOFTWARE</text>
     <rect x="444" y="292" width="96" height="34" rx="17" fill="#98c379" fill-opacity="0.10" stroke="#98c379" stroke-opacity="0.42"/>
-    <text x="466" y="314" fill="#b8d8a2">AI TOOLS</text>
+    <text x="492" y="314" text-anchor="middle" fill="#b8d8a2">AI TOOLS</text>
   </g>
 
   <!-- abstract orbit / moon -->

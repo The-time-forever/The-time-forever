@@ -126,8 +126,8 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 ## `05.` GitHub signals
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=The-time-forever&show_icons=true&hide_border=true&bg_color=00000000&title_color=e06c75&text_color=9da5b4&icon_color=61afef&ring_color=c678dd" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-time-forever&layout=compact&hide_border=true&bg_color=00000000&title_color=e06c75&text_color=9da5b4&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=The-time-forever&show_icons=true&hide_border=true&bg_color=00000000&title_color=e06c75&text_color=9da5b4&icon_color=61afef&ring_color=c678dd" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-time-forever&layout=compact&hide_border=true&bg_color=00000000&title_color=e06c75&text_color=9da5b4&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
