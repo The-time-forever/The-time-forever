@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">YiXuan Xu — The-time-forever</title>
+  <desc id="desc">A dark minimal profile banner with rose, violet and blue accents for an automation and software developer.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d12"/>
+      <stop offset="0.52" stop-color="#12151c"/>
+      <stop offset="1" stop-color="#17131b"/>
+    </linearGradient>
+    <radialGradient id="roseGlow" cx="0" cy="0" r="1" gradientTransform="translate(1002 88) rotate(137) scale(330 260)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e06c75" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#e06c75" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(104 314) rotate(-30) scale(360 210)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#61afef" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#61afef" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="86" y1="0" x2="564" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e06c75"/>
+      <stop offset="0.52" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#61afef"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.1" fill="#ffffff" fill-opacity="0.10"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#roseGlow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#blueGlow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#grid)"/>
+
+  <!-- left accent -->
+  <rect x="80" y="66" width="38" height="4" rx="2" fill="#e06c75"/>
+  <rect x="124" y="66" width="12" height="4" rx="2" fill="#c678dd"/>
+  <rect x="142" y="66" width="12" height="4" rx="2" fill="#61afef"/>
+  <text x="80" y="100" fill="#9da5b4" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2.8">THE-TIME-FOREVER / PROFILE</text>
+
+  <text x="78" y="165" fill="#f2f4f8" font-size="62" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">YiXuan Xu</text>
+  <rect x="80" y="188" width="500" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="80" y="224" fill="#c8cdd7" font-size="20" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.2">AUTOMATION × SOFTWARE × EMBEDDED SYSTEMS</text>
+  <text x="80" y="260" fill="#858d9b" font-size="16" font-family="Segoe UI, Arial, sans-serif">Building tools, experiments, and tiny worlds.</text>
+
+  <!-- tags -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.1">
+    <rect x="80" y="292" width="112" height="34" rx="17" fill="#e06c75" fill-opacity="0.10" stroke="#e06c75" stroke-opacity="0.45"/>
+    <text x="136" y="314" text-anchor="middle" fill="#f0a4aa">AUTOMATION</text>
+    <rect x="204" y="292" width="108" height="34" rx="17" fill="#61afef" fill-opacity="0.10" stroke="#61afef" stroke-opacity="0.42"/>
+    <text x="258" y="314" text-anchor="middle" fill="#9bc9ee">EMBEDDED</text>
+    <rect x="324" y="292" width="108" height="34" rx="17" fill="#c678dd" fill-opacity="0.10" stroke="#c678dd" stroke-opacity="0.42"/>
+    <text x="378" y="314" text-anchor="middle" fill="#dda3e9">SOFTWARE</text>
+    <rect x="444" y="292" width="96" height="34" rx="17" fill="#98c379" fill-opacity="0.10" stroke="#98c379" stroke-opacity="0.42"/>
+    <text x="492" y="314" text-anchor="middle" fill="#b8d8a2">AI TOOLS</text>
+  </g>
+
+  <!-- abstract orbit / moon -->
+  <circle cx="957" cy="176" r="108" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5"/>
+  <circle cx="957" cy="176" r="78" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1" stroke-dasharray="4 8"/>
+  <circle cx="957" cy="176" r="47" fill="#ffffff" fill-opacity="0.035" stroke="#e06c75" stroke-opacity="0.25"/>
+  <circle cx="974" cy="157" r="41" fill="#17131b"/>
+  <path d="M888 252C926 236 957 211 982 178C1008 144 1020 111 1022 76" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="892" cy="250" r="5" fill="#61afef"/>
+  <circle cx="1022" cy="76" r="5" fill="#e06c75"/>
+
+  <!-- code fragments -->
+  <g font-family="Consolas, Menlo, monospace" font-size="12" fill="#7d8590" opacity="0.58">
+    <text x="850" y="68">01 · build()</text>
+    <text x="1038" y="152">learn();</text>
+    <text x="1034" y="214">iterate();</text>
+    <text x="858" y="301">share(); · 10</text>
+  </g>
+
+  <!-- sparks -->
+  <g fill="#ffffff">
+    <circle cx="824" cy="105" r="2" opacity="0.55"/>
+    <circle cx="1090" cy="104" r="1.6" opacity="0.45"/>
+    <circle cx="1116" cy="244" r="2" opacity="0.42"/>
+    <circle cx="829" cy="248" r="1.4" opacity="0.48"/>
+  </g>
+  <g stroke="#e06c75" stroke-linecap="round" opacity="0.58">
+    <path d="M1084 278l8 8m0-8l-8 8"/>
+    <path d="M817 144l7 7m0-7l-7 7"/>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=00000000&ring=C678DD&fire=E06C75&currStreakLabel=61AFEF&sideLabels=9DA5B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3&disable_animations=true
+          path: profile/streak.svg
+
+      - name: Publish streak card to the assets branch
+        run: |
+          cp profile/streak.svg "$RUNNER_TEMP/streak.svg"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin streak-assets > /dev/null 2>&1; then
+            git fetch origin streak-assets
+            git checkout -B streak-assets origin/streak-assets
+          else
+            git checkout --orphan streak-assets
+          fi
+
+          git clean -fdx
+          mkdir -p profile
+          cp "$RUNNER_TEMP/streak.svg" profile/streak.svg
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push origin HEAD:streak-assets
