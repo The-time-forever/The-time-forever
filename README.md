@@ -43,18 +43,20 @@ mindset    learn → build → iterate → share
 ## `02.` Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,rust,nodejs,react,astro,git,github,arduino,vscode,linux&theme=dark&perline=12" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,rust,latex,nodejs,clion,pycharm,webstorm&theme=dark&perline=11" alt="Languages, runtimes and IDEs" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,astro,git,github,arduino,vscode,visualstudio,androidstudio,linux&theme=dark&perline=9" alt="Frameworks, platforms and tools" />
 </div>
 
 <br />
 
 <div align="center">
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-111318?style=flat-square&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-111318?style=flat-square&logo=xilinx&logoColor=E01F27)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111318?style=flat-square&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-111318?style=flat-square&logo=playwright&logoColor=45BA4B)
 ![Markdown](https://img.shields.io/badge/Markdown-111318?style=flat-square&logo=markdown&logoColor=white)
+![Agent](https://img.shields.io/badge/Agent-111318?style=flat-square&logoColor=white)
 
 </div>
 
