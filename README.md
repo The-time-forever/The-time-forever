@@ -43,9 +43,9 @@ mindset    learn → build → iterate → share
 ## `02.` Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,rust,latex,nodejs,clion,pycharm,webstorm&theme=dark&perline=11" alt="Languages, runtimes and IDEs" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,rust,latex,nodejs&theme=dark&perline=8" alt="Languages and runtimes" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,astro,git,github,arduino,vscode,visualstudio,androidstudio,linux&theme=dark&perline=9" alt="Frameworks, platforms and tools" />
+  <img src="https://skillicons.dev/icons?i=react,astro,git,github,arduino,vscode,visualstudio,androidstudio,linux,clion,pycharm,webstorm,markdown&theme=dark&perline=13" alt="Frameworks, platforms, tools and IDEs" />
 </div>
 
 <br />
@@ -55,7 +55,6 @@ mindset    learn → build → iterate → share
 ![FPGA](https://img.shields.io/badge/FPGA-111318?style=flat-square&logo=xilinx&logoColor=E01F27)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111318?style=flat-square&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-111318?style=flat-square&logo=playwright&logoColor=45BA4B)
-![Markdown](https://img.shields.io/badge/Markdown-111318?style=flat-square&logo=markdown&logoColor=white)
 ![Agent](https://img.shields.io/badge/Agent-111318?style=flat-square&logoColor=white)
 
 </div>
