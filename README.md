@@ -116,7 +116,7 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 ## `04.` Currently exploring
 
 <div align="center">
-`Software Development` · `Embedded AI` · `LLM Agents` · `Developer Tooling`
+<code>Software Development</code> · <code>Embedded AI</code> · <code>LLM Agents</code> · <code>Developer Tooling</code>
 
 </div>
 
