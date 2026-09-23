@@ -130,5 +130,5 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 </div>
 
 <div align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/The-time-forever/The-time-forever/streak-assets/profile/streak.svg" alt="GitHub streak" />
 </div>
