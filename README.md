@@ -43,9 +43,9 @@ mindset    learn → build → iterate → share
 ## `02.` Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,rust,latex,nodejs&theme=dark&perline=8" alt="Languages and runtimes" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,rust,latex,nodejs,markdown&theme=dark&perline=9" alt="Languages and markup" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,astro,git,github,arduino,vscode,visualstudio,androidstudio,linux,clion,pycharm,webstorm,markdown&theme=dark&perline=13" alt="Frameworks, platforms, tools and IDEs" />
+  <img src="https://skillicons.dev/icons?i=react,astro,git,github,arduino,vscode,visualstudio,androidstudio,linux,clion,pycharm,webstorm&theme=dark&perline=12" alt="Frameworks, platforms, tools and IDEs" />
 </div>
 
 <br />
