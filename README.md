@@ -32,7 +32,7 @@ focus      Automation / Software / Embedded Systems / AI Tools
 mindset    learn → build → iterate → share
 ```
 
-- ⚙️ Interested in **automation, embedded systems, FPGA and computer architecture**
+- ⚙️ Interested in **automation, embedded systems, agent and computer architecture**
 - 🤖 Building and experimenting with **AI developer tools, agents and local workflows**
 - 🧪 Enjoy **data analysis, modeling, automation scripts and research tooling**
 - 🌐 Maintaining a personal blog for notes, experiments and things worth remembering
@@ -106,8 +106,7 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 </table>
 
 <div align="center">
-
-**More notes, experiments and projects → [the-time-forever.github.io](https://the-time-forever.github.io/)**
+**More notes → [the-time-forever.github.io](https://the-time-forever.github.io/)**
 
 </div>
 
@@ -132,17 +131,4 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 
 <div align="center">
   <img src="./profile/streak.svg" alt="GitHub streak" />
-</div>
-
----
-
-<div align="center">
-
-<sub>「在时间的边缘散步，把路过的想法做成东西。」</sub>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=footer" width="100%" alt="footer line" />
-
 </div>
