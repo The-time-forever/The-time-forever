@@ -32,11 +32,11 @@ focus      Automation / Software / Embedded Systems / AI Tools
 mindset    learn → build → iterate → share
 ```
 
-- ⚙️ Interested in **automation, embedded systems, agent and computer architecture**
-- 🤖 Building and experimenting with **AI developer tools, agents and local workflows**
-- 🧪 Enjoy **data analysis, modeling, automation scripts and research tooling**
-- 🌐 Maintaining a personal blog for notes, experiments and things worth remembering
-- 🌱 Always learning something slightly outside my comfort zone
+-  Interested in **automation, embedded systems, agent and computer architecture**
+-  Building and experimenting with **AI developer tools, agents and local workflows**
+-  Enjoy **data analysis, modeling, automation scripts and research tooling**
+-  Maintaining a personal blog for notes, experiments and things worth remembering
+-  Always learning something slightly outside my comfort zone
 
 ---
 
@@ -116,8 +116,7 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 ## `04.` Currently exploring
 
 <div align="center">
-
-`Computer Architecture` · `FPGA / HDL` · `Embedded AI` · `LLM Agents` · `Developer Tooling` · `Open Source`
+`Software Development` · `Embedded AI` · `LLM Agents` · `Developer Tooling`
 
 </div>
 
