@@ -106,7 +106,7 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 </table>
 
 <div align="center">
-**More notes → [the-time-forever.github.io](https://the-time-forever.github.io/)**
+<strong>More notes → <a href="https://the-time-forever.github.io/">the-time-forever.github.io</a></strong>
 
 </div>
 
