@@ -131,7 +131,7 @@ A Playwright-based toolkit for collecting Zenless Zone Zero news and official do
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=The-time-forever&hide_border=true&background=00000000&ring=C678DD&fire=E06C75&currStreakLabel=61AFEF&sideLabels=9DA5B4&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
