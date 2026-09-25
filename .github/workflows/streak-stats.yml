@@ -33,6 +33,7 @@ jobs:
       - name: Publish streak card to the assets branch
         run: |
           cp profile/streak.svg "$RUNNER_TEMP/streak.svg"
+          git clean -fdx
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
